@@ -1,2 +1,4 @@
-requests>=2.25.0
-colorama>=0.4.4
+requests
+selenium
+colorama
+requests-ip-rotator
